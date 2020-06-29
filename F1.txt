@@ -1,1 +1,4 @@
 This is for liner rebase file
+
+fun3()
+fun4()
