@@ -1,2 +1,10 @@
 my file to commit.
 in order to fix the bug.on new branch bug01
+
+FunABC(){
+
+}
+
+FunXYZ(){
+
+}
